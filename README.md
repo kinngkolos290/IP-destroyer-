@@ -15,3 +15,33 @@
 <a href="https://github.com/kinngkolos290/IP-destroyer-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Emperor-destructor/IP-destroyer-?color=red&style=flat-square"></a>
 <a href="https://github.com/kinngkolos290/IP-destroyer-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kinngkolos290/IP-destroyer-?color=green&style=flat-square"></a>
 <a href="https://github.com/kinngkolos290/IP-destroyer-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kinngkolos290/IP-destroyer-?label=Watchers&color=yellow&style=flat-square"></a>
+
+# Pentesting
+
+*Cette outil permet de Teste la security d'un system tout simplement en utilisant son IP*
+
+
+
+# utilisation
+_Il est crée pout fin educatif hacking je ne suis pas responsable de l' utilité illegalement_
+
+
+
+
+# Comment l'instaler
+```
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install socket
+
+pkg install git
+
+git clone https://github.com/kinngkolos290/IP-destroyer-
+
+cd Pentesting
+
+python Pentesting.py
